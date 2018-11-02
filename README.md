@@ -17,3 +17,10 @@ Installing LoRA server on Raspberry
     • install docker 
     • locate and download Raspberry loraserver image 
     • ./build-docker.sh 
+    
+    
+    
+    
+    oot@debian:~# set -a
+root@debian:~# source /etc/default/loraserver
+root@debian:~# loraserver
